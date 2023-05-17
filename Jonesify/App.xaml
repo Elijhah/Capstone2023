@@ -1,0 +1,9 @@
+﻿<Application x:Class="Jonesify.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Jonesify"
+             StartupUri="./View/MVVM/MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
